@@ -14,10 +14,6 @@ public class UrlMapping {
 
     public UrlMapping() {
     }
-    public UrlMapping(String shortCode, String url) {
-        this.shortCode = shortCode;
-        this.url = url;
-    }
 
     public int getId() {
         return id;
